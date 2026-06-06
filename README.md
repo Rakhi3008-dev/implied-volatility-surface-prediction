@@ -1,4 +1,4 @@
-# implied-volatility-surface-prediction
+# Implied-volatility-surface-prediction
 
 ## Overview
 
